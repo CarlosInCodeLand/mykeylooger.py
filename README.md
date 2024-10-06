@@ -1,8 +1,6 @@
 # Python Keylogger
 
-# COMO USAR
-Execute o script da seguinte maneira: 
-python keylogger.py 
+
 
 Este é um **keylogger** simples desenvolvido em Python com o propósito de estudos e testes de segurança em ambientes controlados. Ele captura todas as teclas digitadas e armazena em um arquivo de log em um diretório temporário.
 
@@ -18,10 +16,16 @@ Este é um **keylogger** simples desenvolvido em Python com o propósito de estu
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/python-keylogger.git
+git clone https://github.com/CarlosInCodeLand/mykeylooger.py
 
 2. Instale os requisitos:
 pip install pynput 
+
+# COMO USAR
+Execute o script da seguinte maneira: 
+python mykeylogger.py 
+ou se preferir crie um .exe
+
 
 Funcionalidades
 Captura todas as teclas pressionadas.
